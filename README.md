@@ -1,31 +1,9 @@
 # ***🔥 Martiibot 🔥***
-
 <p align="center">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/>
+<img src="https://propuestas-fanon.fandom.com/es/wiki/My_Melody?file=Sanrio_Characters_My_Melody_Image029.png)" alt="Martiibot" width="900"/>
 </p>
 
 ### `—◉ ❤️BOTS OFICIALES`
-
-<a href="http://wa.me/50495625729" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-`—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
-
-<a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573184314110" target="blank"><img src="https://img.shields.io/badge/Narsol_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986674310" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-### `—◉ 🔥GRUPOS OFICIALES`
-
-[![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h)  <a href="https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
-[![blog](https://img.shields.io/badge/Grupo-Oficial2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/C3TfpGAEnpYHMqfe5YbZfc)  <a href="https://chat.whatsapp.com/C3TfpGAEnpYHMqfe5YbZfc"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
-
----------
-> GRUPOS OFICIALES DEL BOT PARA LA DIVERSIÓN :)
-
 ## `[🗂️] Página del bot`
 
 <a href="https://sites.google.com/view/dorratbotmd/inicio" target="_blank"> <img src="https://img.shields.io/badge/-pagina aqui-%23E4405F?style=for-the-badge&logo=página aqui&logoColor=black" target="_blank"></a> 
